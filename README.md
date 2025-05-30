@@ -6,9 +6,9 @@
 
 # 📁 Project Structure
     File Name	Description
-    Car_Sales_Data.xlsx	Raw dataset used for analysis
-    Car_Sales_Dashboard.xlsx	Final interactive dashboard with visuals
-    README.md	Project documentation (this file)
+    Car_Sales_Data.xlsx - Raw dataset used for analysis
+    Car_Sales_Dashboard.xlsx - Final interactive dashboard with visuals
+    README.md - Project documentation (this file)
 
 # ⚙️ Features
     🔄 Data cleaning (duplicates removal, standardizing values)
